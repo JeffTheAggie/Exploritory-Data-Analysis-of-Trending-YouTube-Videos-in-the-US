@@ -1,0 +1,2 @@
+# Exploritory-Data-Analysis-of-Trending-YouTube-Videos-in-the-US
+In this project, we will discover what categories affect the viewrship of the most trending YouTube videos in the US. What we can gain from analyzing these categories would be that we can improve recommending different types of videos to other people based on the majority opinion of what genres of videos are perceived as worthwhile to watch.
